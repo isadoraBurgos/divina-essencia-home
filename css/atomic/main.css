@@ -1,0 +1,47 @@
+/* Atoms */
+@import url("atoms/buttons.css");
+@import url("atoms/inputs.css");
+@import url("atoms/icons.css");
+@import url("atoms/links.css");
+@import url("atoms/hamburguer.css");
+@import url("atoms/typography.css");
+@import url("atoms/card.css");
+@import url("atoms/product.css");
+@import url("atoms/category.css");
+@import url("atoms/about.css");
+@import url("atoms/form-elements");
+
+
+/* Molecules */
+@import url("molecules/botoesconfirm.css");
+@import url("molecules/inputform.css");
+@import url("molecules/search.css");
+@import url("molecules/user-options.css");
+@import url("molecules/menu.css");
+@import url("molecules/newletter.css");
+@import url("molecules/social.css");
+@import url("molecules/info.css");
+@import url("molecules/layoutcarrinho.css");
+@import url("molecules/productpage.css");
+@import url("molecules/quantity-selector.css");
+
+
+
+/* Organisms */
+@import url("organisms/header.css");
+@import url("organisms/footer.css");
+@import url("organisms/proposition.css");
+@import url("organisms/carrosse.css");
+@import url("organisms/sobrenos.css");
+@import url("organisms/baselogin.css");
+@import url("organisms/bloco.css");
+@import url("organisms/layoutconfirm.css");
+@import url("organisms/layoutform.css");
+@import url("organisms/layoutprodutos.css");
+@import url("organisms/o-user-dashboard-layout.css");
+
+
+
+
+
+

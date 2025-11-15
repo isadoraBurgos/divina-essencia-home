@@ -1,0 +1,33 @@
+.a-input {
+    padding: 5px 5px 5px 15px;
+    border: 1px solid #8a5b9e;
+    border-radius: 15px;
+    width: 100%;
+    font-size: 1rem;
+    outline: none;
+}
+
+.a-input:focus {
+    border-color: #6a3f87;
+    box-shadow: 0 0 4px rgba(138, 91, 158, 0.4);
+}
+
+.a-input-email {
+    padding: 5px 5px 5px 15px;
+    border: 1px solid #8a5b9e;
+    border-radius: 15px;
+    width: 350px;
+    font-size: 1rem;
+    outline: none;
+}
+
+.a-small-text {
+    font-size: 0.9em;
+    color: #666;
+}
+
+.a-email-link {
+    font-weight: bold;
+    color: #333;
+    margin-top: 10px;
+}
